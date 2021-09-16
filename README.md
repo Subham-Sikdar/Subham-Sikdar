@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subham-Sikdar
+- 👋 Hi, I’m Subham Sikdar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing PG Diploma in Data Science from IIIT Bangalore with upGrad
 - 📫 E-mail : the.sikdar@gmail.com
